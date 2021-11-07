@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\rafac\OneDrive\Estudos\Imed\Aulas_2_Smt\POO\aula10\.metadata\.plugins\org.eclipse.jdt.core
+2022587803.index
+1865797976.index
+1991655398.index

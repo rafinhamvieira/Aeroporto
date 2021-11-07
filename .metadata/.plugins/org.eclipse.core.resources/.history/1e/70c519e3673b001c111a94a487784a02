@@ -1,0 +1,15 @@
+package br.imed.edu.model;
+
+/**
+ * 
+ * @author Rafael Corrêa Vieira <rafacorreavieira2020@gmail.com>
+ *
+ */
+public class Voo {
+	private String dataPartida;
+	private String horarioPartida;
+	private Integer numeroVoo;
+	private Aeroporto aeroportoOrigem;
+	private Aeroporto aeroportoChegada;
+	
+}

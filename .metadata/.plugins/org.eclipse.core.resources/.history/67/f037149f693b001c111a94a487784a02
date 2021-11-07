@@ -1,0 +1,24 @@
+package br.imed.edu.model;
+
+public class TerminalLogistico {
+	private String aviao;
+	private String onibus;
+
+	
+	public String getAviao() {
+		return aviao;
+	}
+	
+	public void setAviao(String aviao) {
+		this.aviao = aviao;
+	}
+	
+	public String getOnibus() {
+		return onibus;
+	}
+	
+	public void setOnibus(String onibus) {
+		this.onibus = onibus;
+	}
+	
+}

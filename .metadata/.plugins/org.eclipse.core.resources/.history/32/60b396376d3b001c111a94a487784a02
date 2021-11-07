@@ -1,0 +1,7 @@
+package br.imed.edu.model;
+
+public class PassagemAerea {
+	public String comprarPassagem(Cliente cliente1, Voo voo, Aeroporto aeroporto) {
+		
+	}
+}

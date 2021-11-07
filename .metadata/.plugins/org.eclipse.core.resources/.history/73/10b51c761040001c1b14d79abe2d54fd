@@ -1,0 +1,46 @@
+package br.imed.edu.model;
+
+/**
+ * 
+ * @author Rafael Corrêa Vieira <rafacorreavieira2020@gmail.com>
+ *
+ */
+public class Voo {
+	private String dataPartida;
+	private String horarioPartida;
+	private Integer numeroVoo;
+	private Aeroporto aeroportoOrigem;
+	private Aeroporto aeroportoChegada;
+	
+	public String getDataPartida() {
+		return dataPartida;
+	}
+	public void setDataPartida(String dataPartida) {
+		this.dataPartida = dataPartida;
+	}
+	public String getHorarioPartida() {
+		return horarioPartida;
+	}
+	public void setHorarioPartida(String horarioPartida) {
+		this.horarioPartida = horarioPartida;
+	}
+	public Integer getNumeroVoo() {
+		return numeroVoo;
+	}
+	public void setNumeroVoo(Integer numeroVoo) {
+		this.numeroVoo = numeroVoo;
+	}
+	public Aeroporto getAeroportoOrigem() {
+		return aeroportoOrigem;
+	}
+	public void setAeroportoOrigem(Aeroporto aeroportoOrigem) {
+		this.aeroportoOrigem = aeroportoOrigem;
+	}
+	public Aeroporto getAeroportoChegada() {
+		return aeroportoChegada;
+	}
+	public void setAeroportoChegada(Aeroporto aeroportoChegada) {
+		this.aeroportoChegada = aeroportoChegada;
+	}
+	
+}

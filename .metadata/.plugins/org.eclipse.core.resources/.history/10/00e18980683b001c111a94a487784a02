@@ -1,0 +1,39 @@
+package br.imed.edu.model;
+
+/**
+ * 
+ * @author Rafael Corrêa Vieira <rafacorreavieira2020@gmail.com>
+ *
+ */
+public class Cidade {
+	private String aviao;
+	private String onibus;
+	private String barco;
+	private String bicicleta;
+	
+	public String getAviao() {
+		return aviao;
+	}
+	public void setAviao(String aviao) {
+		this.aviao = aviao;
+	}
+	public String getOnibus() {
+		return onibus;
+	}
+	public void setOnibus(String onibus) {
+		this.onibus = onibus;
+	}
+	public String getBarco() {
+		return barco;
+	}
+	public void setBarco(String barco) {
+		this.barco = barco;
+	}
+	public String getBicicleta() {
+		return bicicleta;
+	}
+	public void setBicicleta(String bicicleta) {
+		this.bicicleta = bicicleta;
+	}
+	
+}

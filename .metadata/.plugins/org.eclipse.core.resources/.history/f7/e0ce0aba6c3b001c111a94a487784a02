@@ -1,0 +1,5 @@
+package br.imed.edu.model;
+
+public class PassagemAerea {
+
+}

@@ -1,0 +1,42 @@
+package br.imed.edu.service;
+
+import java.util.Scanner;
+
+import br.imed.edu.model.PassagemAerea;
+
+/**
+ * 
+ * @author Rafael Corrêa Vieira <rafacorreavieira2020@gmail.com>
+ *
+ */
+public class Sistema {
+
+	public static void main(String[] args) {
+		String escolha1;
+		String escolha2;
+		String escolha3;
+		
+		Scanner s = new Scanner(System.in);
+		PassagemAerea passagemAerea = new PassagemAerea();
+		
+		System.out.println("Deseja se cadastrar? ");
+		escolha1 = s.nextLine();
+		
+		if(escolha1 == "Sim") {
+			
+		}
+		
+		System.out.println("Deseja adquirir uma passagem? ");
+		
+		escolha2 = s.nextLine();
+		System.out.println();
+		System.out.println("Qual seu nome? ");
+		escolha3 = s.nextLine();
+		s.close();
+		
+		if (escolha1 == "Sim") {
+			passagemAerea.comprarPassagem(cliente1, null, null)
+		}
+	}
+
+}

@@ -1,0 +1,9 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="br.imed.edu.model.TerminalLogistico"><rhs name\="br.imed.edu.model.TerminalLogistico"/><rhs name\="br.imed.edu.model.Aeroporto"/></lhs><lhs name\="br.imed.edu.model.PassagemAerea"><rhs name\="br.imed.edu.model.PassagemAerea"/></lhs><lhs name\="br.imed.edu.model.Aeroporto"><rhs name\="br.imed.edu.model.Aeroporto"/></lhs></history>
+content_assist_number_of_computers=13
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=21
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="javadoc" deleted\="false" description\="author name" enabled\="true" id\="org.eclipse.jdt.ui.templates.author" name\="@author">@author Rafael Corr\u00EAa Vieira &lt;rafacorreavieira2020@gmail.com&gt;</template></templates>
+spelling_locale_initialized=true
+typefilter_migrated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

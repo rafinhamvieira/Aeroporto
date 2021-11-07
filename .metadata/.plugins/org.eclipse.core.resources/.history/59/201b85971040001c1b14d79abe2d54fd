@@ -1,0 +1,19 @@
+package br.imed.edu.service;
+
+
+import br.imed.edu.model.PassagemAerea;
+
+/**
+ * 
+ * @author Rafael Corrêa Vieira <rafacorreavieira2020@gmail.com>
+ *
+ */
+public class Sistema {
+
+	public static void main(String[] args) {
+
+		PassagemAerea passagemAerea = new PassagemAerea();
+		
+
+	}
+}

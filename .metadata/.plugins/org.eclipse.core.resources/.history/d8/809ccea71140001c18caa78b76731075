@@ -1,0 +1,13 @@
+package br.imed.edu.model;
+
+public class PassagemAerea {
+	protected Cliente cliente;
+	protected Voo voo;
+	protected Aeroporto aeroporto;
+	
+	public String comprarPassagem(Cliente cliente, Voo voo) {
+		this.cliente = cliente;
+		this.voo = voo;
+		return "Passagem adquirida com sucesso! ";
+	}
+}

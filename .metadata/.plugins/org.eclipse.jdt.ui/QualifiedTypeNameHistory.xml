@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.imed.edu.model.Cliente"/>
+    <fullyQualifiedTypeName name="br.imed.edu.model.TerminalLogistico"/>
+    <fullyQualifiedTypeName name="br.imed.edu.model.Voo"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="br.imed.edu.model.PassagemAerea"/>
+    <fullyQualifiedTypeName name="br.imed.edu.model.Aeroporto"/>
+</qualifiedTypeNameHistroy>
